@@ -1,14 +1,13 @@
 ﻿<Properties StartupConfiguration="{A75E813D-F0CE-4135-A554-04B89262BA40}|Default">
-  <MonoDevelop.Ide.ItemProperties.ApiCatalogo PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="ApiCatalogo/Models/Produto.cs">
     <Files>
       <File FileName="ApiCatalogo/Models/Categoria.cs" />
-      <File FileName="ApiCatalogo/Models/Produto.cs" Line="12" Column="47" />
+      <File FileName="ApiCatalogo/Models/Produto.cs" Line="7" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,5 +22,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ApiCatalogo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
 </Properties>
