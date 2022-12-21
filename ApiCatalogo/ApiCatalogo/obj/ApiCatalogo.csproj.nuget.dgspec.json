@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/talita-s/Documents/workspaces/AspNetCore/ApiCatalogo/ApiCatalogo/ApiCatalogo.csproj": {}
+    "/Users/talita-s/Documents/Workspaces/AspNetCore/ApiCatalogo/ApiCatalogo/ApiCatalogo.csproj": {}
   },
   "projects": {
-    "/Users/talita-s/Documents/workspaces/AspNetCore/ApiCatalogo/ApiCatalogo/ApiCatalogo.csproj": {
+    "/Users/talita-s/Documents/Workspaces/AspNetCore/ApiCatalogo/ApiCatalogo/ApiCatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/talita-s/Documents/workspaces/AspNetCore/ApiCatalogo/ApiCatalogo/ApiCatalogo.csproj",
+        "projectUniqueName": "/Users/talita-s/Documents/Workspaces/AspNetCore/ApiCatalogo/ApiCatalogo/ApiCatalogo.csproj",
         "projectName": "ApiCatalogo",
-        "projectPath": "/Users/talita-s/Documents/workspaces/AspNetCore/ApiCatalogo/ApiCatalogo/ApiCatalogo.csproj",
+        "projectPath": "/Users/talita-s/Documents/Workspaces/AspNetCore/ApiCatalogo/ApiCatalogo/ApiCatalogo.csproj",
         "packagesPath": "/Users/talita-s/.nuget/packages/",
-        "outputPath": "/Users/talita-s/Documents/workspaces/AspNetCore/ApiCatalogo/ApiCatalogo/obj/",
+        "outputPath": "/Users/talita-s/Documents/Workspaces/AspNetCore/ApiCatalogo/ApiCatalogo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/talita-s/.nuget/NuGet/NuGet.Config"
@@ -42,7 +42,7 @@
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

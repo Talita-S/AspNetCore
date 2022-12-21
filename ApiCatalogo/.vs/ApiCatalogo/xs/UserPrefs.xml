@@ -1,4 +1,27 @@
-﻿<Properties StartupConfiguration="{38F45E2E-FEC3-41AD-B600-CE7FD25A043D}|Default">
-  <MonoDevelop.Ide.ItemProperties.ApiCatalogo FirstBuild="True" />
+﻿<Properties StartupConfiguration="{A75E813D-F0CE-4135-A554-04B89262BA40}|Default">
+  <MonoDevelop.Ide.ItemProperties.ApiCatalogo PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiCatalogo/Models/Produto.cs">
+    <Files>
+      <File FileName="ApiCatalogo/Models/Categoria.cs" />
+      <File FileName="ApiCatalogo/Models/Produto.cs" Line="12" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApiCatalogo" expanded="True">
+            <Node name="ApiCatalogo" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

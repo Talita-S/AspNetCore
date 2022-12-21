@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 25.0.1703.6
+VisualStudioVersion = 25.0.1704.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCatalogo", "ApiCatalogo\ApiCatalogo.csproj", "{38F45E2E-FEC3-41AD-B600-CE7FD25A043D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCatalogo", "ApiCatalogo\ApiCatalogo.csproj", "{A75E813D-F0CE-4135-A554-04B89262BA40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{38F45E2E-FEC3-41AD-B600-CE7FD25A043D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{38F45E2E-FEC3-41AD-B600-CE7FD25A043D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{38F45E2E-FEC3-41AD-B600-CE7FD25A043D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{38F45E2E-FEC3-41AD-B600-CE7FD25A043D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A75E813D-F0CE-4135-A554-04B89262BA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75E813D-F0CE-4135-A554-04B89262BA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75E813D-F0CE-4135-A554-04B89262BA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75E813D-F0CE-4135-A554-04B89262BA40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D84D3212-1B78-4259-B6CF-6EA7971E625E}
+		SolutionGuid = {1E3243B2-31FD-419D-AB2C-9A212EFC6ADC}
 	EndGlobalSection
 EndGlobal
